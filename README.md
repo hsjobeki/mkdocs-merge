@@ -1,5 +1,8 @@
 # MkDocs Merge
 
+> Note: Same functionality could also be acheived with a package like structure (e.g. using Nix)
+> Note: I will think about: how to make an _easy to use tool_, where u dont have to understand the syntax of Nix.
+
 This simple tool allows you to merge the source of multiple [MkDocs](http://www.mkdocs.org/) sites
 into a single one converting each of the specified sites to a sub-site of the master site.
 
